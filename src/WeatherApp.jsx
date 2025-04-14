@@ -15,7 +15,7 @@ import wind from "./assets/Weather/wind.jpg";
 
 import { useState } from 'react';
 import SearchBox from "./SearchBox"
-import InfoBox from "./infoBox"
+import InfoBox from "./InfoBox"
 import Temp from './Temp';
 import "./WeatherApp.css";
 export default function WeatherApp(){
