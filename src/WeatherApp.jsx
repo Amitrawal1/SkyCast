@@ -7,7 +7,7 @@ import cloudy from "./assets/Weather/cloudy.jpg";
 import rainy from "./assets/Weather/rainy.jpg";
 import sunny from "./assets/Weather/sunny.jpg";
 import hot from "./assets/Weather/hot.jpg";
-import veryhot from "./assets/Weather/veryhot.jpg";
+import veryhot from "./assets/Weather/veryHot.jpg";
 import cold from "./assets/Weather/cold.jpg";
 import snow from "./assets/Weather/snow.jpg";
 import storm from "./assets/Weather/storm.jpg";
